@@ -7,3 +7,7 @@ This theme is named and inspired by: [Nightwing](https://en.wikipedia.org/wiki/N
 The Nightwing theme is best paired with [OneDark UI](https://github.com/atom/one-dark-ui).  
 
 ![screenshot](nightwing-screenshot.png)
+
+Nightwing is a trademark of DC Comics.
+
+This theme's source code is licensed via [MIT License](LICENSE.md).
