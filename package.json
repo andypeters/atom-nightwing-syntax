@@ -1,0 +1,15 @@
+{
+  "name": "nightwing-syntax",
+  "theme": "syntax",
+  "version": "0.5.0",
+  "description": "A syntax theme inspired by the DC comics character Nightwing",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/andypeters/atom-nightwing-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
